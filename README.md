@@ -1,3 +1,7 @@
+#Inroduction
+This is a code repository for COVID-19 Tracker 
+This project is built with
+## ReactJs ChartJs MaterialUI
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
